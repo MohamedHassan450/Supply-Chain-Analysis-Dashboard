@@ -5,9 +5,9 @@ The dashboard provides a comprehensive view of supply chain operations, transfor
 
 ---
 
-<img width="1416" height="795" alt="19" src="https://github.com/user-attachments/assets/78d2a155-bf85-449a-b159-a83f3c9ea7f6" />
-<img width="1414" height="794" alt="20" src="https://github.com/user-attachments/assets/9bab991a-3398-472f-aaf3-ad34f64445da" />
-<img width="1419" height="797" alt="21" src="https://github.com/user-attachments/assets/21dda4b8-b27f-490c-9ab8-1217dd583a65" />
+<img width="1416" height="794" alt="19" src="https://github.com/user-attachments/assets/6385dca5-d7af-4fd4-8e36-26d1d7b81b45" />
+<img width="1417" height="798" alt="20" src="https://github.com/user-attachments/assets/a682a945-074f-4093-9bca-1a212c46378b" />
+<img width="1417" height="795" alt="21" src="https://github.com/user-attachments/assets/dd8261f9-2f30-4f75-8e52-7c86b298addb" />
 
 ---
 
